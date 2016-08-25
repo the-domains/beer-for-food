@@ -12,5 +12,10 @@ color:
     - '#825534'
 layout_spectrum: 0.23168036248534918
 name: Beer for Food
+navigation:
+  - name: Swedish breweries
+    url: >-
+      https://www.google.se/maps/@64.3636016,16.7107405,4z/data=!3m1!4b1!4m2!6m1!1s1H6gMjFFkdVumzfc_iWLOF4ja-dE
+    type: external
 title: Beer for Food & Joy
 description: by Pelle Stridh
